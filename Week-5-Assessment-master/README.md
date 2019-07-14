@@ -12,4 +12,3 @@
 - Don't forget to write the parameters (arguments) if the question needs them.
 
 GOOD LUCK 👩‍💻 👨‍💻
-# week5-assessment
